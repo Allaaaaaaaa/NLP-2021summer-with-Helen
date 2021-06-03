@@ -27,8 +27,7 @@ One recent popular direction is ***unsupervised cross-lingual word embeddings***
 Review paper: 
 - A Survey of Cross-lingual Word Embedding Models  
   https://arxiv.org/pdf/1706.04902.pdf
-- [A long version of last paper](./Cross-Lingual Word Embeddings.pdf)
-- [test](README.md)
+- [A long version of last paper](Cross-Lingual Word Embeddings.pdf)
 
 Two related unsupervised cross-lingual word embedding paper:
 - A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings  
