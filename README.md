@@ -20,9 +20,9 @@ Three features need to be achieved.
 
 For different lang, we can represent the word in different word spaces. Then can we generate a universe word space to contain multi-lang words together?
 
-Here we just need to consider **Chinese and English**.
+Here we just need to consider ***Chinese and English***.
 
-One recent popular direction is **unsupervised cross-lingual word embeddings**.
+One recent popular direction is ***unsupervised cross-lingual word embeddings***.
 
 A review paper: 
 + A Survey of Cross-lingual Word Embedding Models  
