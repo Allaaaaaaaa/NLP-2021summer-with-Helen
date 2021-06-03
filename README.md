@@ -1,13 +1,13 @@
 # NLP-2021summer-with-Helen
 
 # Title
-+ ChatRobot Development
++ Chatbot Development
 + Research
   + Multi-language word embedding
   + Relation between word clusters
 
-# ChatRobot Developent
-There is a contest about FAQ robot.
+# Chatbot Developent
+There is a contest about FAQ bot.
 
 Link: 
 
