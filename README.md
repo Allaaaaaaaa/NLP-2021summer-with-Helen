@@ -25,7 +25,9 @@ Here we just need to consider **Chinese and English**.
 One recent popular direction is **unsupervised cross-lingual word embeddings**.
 
 A review paper: 
-+ A Survey of Cross-lingual Word Embedding Models https://arxiv.org/pdf/1706.04902.pdf
++ 
+  A Survey of Cross-lingual Word Embedding Models  
+  https://arxiv.org/pdf/1706.04902.pdf
 
 Two related unsupervised cross-lingual word embedding paper:
 + A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings https://www.aclweb.org/anthology/P18-1073.pdf
