@@ -7,9 +7,7 @@
   - Relation between word clusters
 
 # Chatbot Developent
-There is a contest about FAQ bot.
-
-Link: 
+There is a contest about FAQ bot called [DSTC10](https://sites.google.com/dstc.community/dstc10/home)
 
 Three features need to be achieved.
 - The database has 2 parts. One part is our own knowledge base, and the other is some FAQ data. What we need to do first is to identify the user's question and check whether we can solve the question with our knowledge base. If not, then we go to the FAQ part.
